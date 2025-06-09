@@ -12,3 +12,6 @@ phải lớn hơn 1,2 lần số câu hỏi trong phần đó của đề thi (�
  hiệu quả tốt). Với ví dụ trên, ngân hàng cho phần 1 phải có ít nhất 36 câu.
  4. Mỗi câu hỏi phải có nhiều lựa chọn trả lời. Trong những lựa chọn này, phải có ít nhất 1 lựa 
 chọn đúng (tùy vào loại câu hỏi: có thể chọn nhiều phương án hoặc chỉ 1 phương án đúng).
+Mục tiêu , tiến độ :
+ Dự án đang tiếp tục được xây dựng 
+ Mục tiêu : Học cách sử dụng Spring Boot 
