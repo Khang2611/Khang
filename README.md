@@ -14,5 +14,6 @@ phải lớn hơn 1,2 lần số câu hỏi trong phần đó của đề thi (�
 chọn đúng (tùy vào loại câu hỏi: có thể chọn nhiều phương án hoặc chỉ 1 phương án đúng).
 
 II.Mục tiêu , tiến độ :
- Dự án đang tiếp tục được xây dựng 
- Mục tiêu : Học cách sử dụng Spring Boot 
+
+ 1.Dự án đang tiếp tục được xây dựng 
+ 2.Mục tiêu : Học cách sử dụng Spring Boot 
