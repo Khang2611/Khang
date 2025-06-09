@@ -1,4 +1,4 @@
-Mô tả khái quát:
+I.Mô tả khái quát:
  1. Hệ thống phải quản lý đề thi cho nhiều module đánh giá. Một module đánh giá được tạo ra cho
  một môn học và có thể được tổ chức thực hiện thi nhiều lần. Mỗi lần thi, hệ thống sẽ tạo 1 đề 
 thi cho riêng mỗi sinh viên bằng cách rút ngẫu nhiên các câu hỏi từ ngân hàng câu hỏi của 
@@ -12,6 +12,7 @@ phải lớn hơn 1,2 lần số câu hỏi trong phần đó của đề thi (�
  hiệu quả tốt). Với ví dụ trên, ngân hàng cho phần 1 phải có ít nhất 36 câu.
  4. Mỗi câu hỏi phải có nhiều lựa chọn trả lời. Trong những lựa chọn này, phải có ít nhất 1 lựa 
 chọn đúng (tùy vào loại câu hỏi: có thể chọn nhiều phương án hoặc chỉ 1 phương án đúng).
-Mục tiêu , tiến độ :
+
+II.Mục tiêu , tiến độ :
  Dự án đang tiếp tục được xây dựng 
  Mục tiêu : Học cách sử dụng Spring Boot 
