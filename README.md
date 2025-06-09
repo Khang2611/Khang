@@ -15,6 +15,6 @@ chọn đúng (tùy vào loại câu hỏi: có thể chọn nhiều phương á
 
 II.Mục tiêu , tiến độ :
 
- 1.Dự án đang tiếp tục được xây dựng 
+ 1.Dự án đang tiếp tục được xây dựng, mong muốn xây dựng thành hệ thống thi trực tuyến , tự động tạo đề thi , chấm điểm 
  
  2.Mục tiêu : Học cách sử dụng Spring Boot 
